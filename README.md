@@ -6,8 +6,7 @@
 
 👋 My name is Lena and I'm a Internet Kisi. 
 
-I'm currently working on [Repero.me](https://repero.me)
-
+🛠 I'm currently working on [Repero.me](https://repero.me) an online repair management system that saves repair shops time and increases productivity.
 
 
 
